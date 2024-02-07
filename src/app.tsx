@@ -3,11 +3,6 @@ import { FormSearchNotes } from "./components/form-search-notes";
 import { NewNoteCard } from "./components/new-note-card";
 import { NoteCard } from "./components/note-card";
 
-const note = {
-  date: new Date(),
-  content: 'Hello World'
-}
-
 export function App() {
 
   return (
